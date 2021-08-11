@@ -3,8 +3,6 @@ import * as Icon from 'react-feather';
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import "./App.scss";
 import About from "./pages/About";
-import BlogDetails from "./pages/BlogDetails";
-import Blogs from "./pages/Blogs";
 import Contact from "./pages/Contact";
 import Home from "./pages/Home";
 import Notfound from "./pages/Notfound";

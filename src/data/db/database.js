@@ -8,8 +8,8 @@ const database = {
     phone: '',
     nationality: 'American',
     language: 'English, French',
-    email: '',
-    address: '121 King Street, Melbourne, Australia',
+    email: 'jon.zawad@gmail.com',
+    address: '1679 Frederick Michael Way',
     freelanceStatus: 'Available',
     socialLinks: {
       facebook: 'https://www.facebook.com/jonathan.zawada/',
@@ -20,7 +20,7 @@ const database = {
       dribbble: '',
       github: 'https://github.com/jon-zawada'
     },
-    brandImage: '/images/brand-image.jpg',
+    brandImage: '/images/Jon.jpg',
     aboutImage: '/images/about-image.jpg',
     aboutImageLg: '/images/about-image-lg.jpg',
     cvfile: '/files/empty.pdf'
