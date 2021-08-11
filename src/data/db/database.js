@@ -2,9 +2,9 @@ import Mock from "../mock";
 
 const database = {
   information: {
-    name: 'Devid Chester',
-    aboutContent: "I am a frontend web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.",
-    age: 24,
+    name: 'Jonathan Zawada',
+    aboutContent: "I am a fullstack web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.",
+    age: 26,
     phone: '',
     nationality: 'American',
     language: 'English, French',
@@ -12,13 +12,13 @@ const database = {
     address: '121 King Street, Melbourne, Australia',
     freelanceStatus: 'Available',
     socialLinks: {
-      facebook: 'https://facebook.com',
-      twitter: 'https://twitter.com',
+      facebook: 'https://www.facebook.com/jonathan.zawada/',
+      twitter: '',
       pinterest: '',
       behance: '',
-      linkedin: '',
+      linkedin: 'https://www.linkedin.com/in/jonathan-zawada',
       dribbble: '',
-      github: 'https://github.com'
+      github: 'https://github.com/jon-zawada'
     },
     brandImage: '/images/brand-image.jpg',
     aboutImage: '/images/about-image.jpg',
